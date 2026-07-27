@@ -1,42 +1,63 @@
 <h1 align="center">Hi 👋, I'm Puneesh Gulati</h1>
 
-<h3 align="center">
-Cybersecurity • SOC • Cloud Security • AI Security • Security Automation
-</h3>
+<p align="center">
+  <strong>Cybersecurity • SOC • Cloud Security • AI Security • Security Automation</strong>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Puneesh12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-🎓 Final Year B.Tech CSE (Information Security)
-
-🛡️ Passionate about
-- Security Operations (SOC)
-- Threat Hunting
-- Incident Response
-- Cloud Security
-- AI for Cybersecurity
-- Security Automation (SOAR)
-
-💻 I enjoy building security tools that solve real-world security problems.
-
-🌱 Currently learning
-
-- Detection Engineering
-- Purple Teaming
-- Cloud Security
-- AI Agents for SOC
-- Malware Analysis
+- 🎓 B.Tech in Computer Science (Information Security)
+- 🔐 Passionate about Cybersecurity, Threat Detection, and Incident Response
+- ☁️ Exploring Cloud Security and Detection Engineering
+- 🤖 Interested in AI-driven Security Automation
+- 🛠️ Building projects focused on SIEM, SOAR, Email Security, and Threat Intelligence
+- 🌱 Always learning and experimenting with new security technologies
 
 ---
 
-# 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-## 🛡️ AI-Powered Email Threat Investigation Platform
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
+</p>
+
+### Web Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,fastapi" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,gcp,docker,linux,git,github,vscode" />
+</p>
+
+### Cybersecurity
+
+- Microsoft Sentinel
+- Wazuh
+- Burp Suite
+- OWASP ZAP
+- Cisco Secure Email Threat Defense (ETD)
+- Kusto Query Language (KQL)
+- n8n Automation
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ AI-Powered Email Threat Investigation Platform
+
+An AI-assisted email security platform capable of:
 
 - Email Header Analysis
 - SPF, DKIM & DMARC Validation
@@ -44,13 +65,13 @@ Cybersecurity • SOC • Cloud Security • AI Security • Security Automation
 - Attachment Analysis
 - Threat Intelligence Enrichment
 - MITRE ATT&CK Mapping
-- AI Generated Investigation Reports
+- AI Investigation Reports
 
 ---
 
-## ⚡ AI SOC Automation Platform
+### ⚡ AI SOC Automation Platform
 
-Built using
+Developed an AI-assisted SOAR platform integrating:
 
 - Microsoft Sentinel
 - Wazuh
@@ -58,135 +79,83 @@ Built using
 - Groq LLM
 - Python
 
-Features
+Features:
 
 - Automated Alert Triage
 - AI Incident Summaries
-- Threat Investigation
 - Security Workflow Automation
+- Threat Investigation
 
 ---
 
-## 📊 SIEM Home Lab
+### 📊 SIEM Home Lab
 
-- Microsoft Sentinel
-- Wazuh
-- Azure
-- KQL Hunting
-- Log Analysis
-- Threat Detection
+Built a personal SOC lab for:
 
----
-
-# 💻 Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,react"/>
-</p>
-
-## Cybersecurity
-
-<p>
-<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP%20ZAP-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KQL-0052CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
-</p>
-
-## Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=azure,gcp"/>
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
-</p>
+- Centralized Log Collection
+- Threat Hunting
+- Detection Rules
+- KQL Queries
+- Security Monitoring
+- Incident Investigation
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Puneesh12&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneesh12&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Puneesh12&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-# 📊 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
-
----
-
-# 🏆 GitHub Trophies
+## 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puneesh12&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-# 📚 Current Focus
+## 🎯 Currently Learning
 
-✔ Threat Hunting
-
-✔ Detection Engineering
-
-✔ AI Security
-
-✔ Cloud Security
-
-✔ Security Automation
-
-✔ Blue Team Operations
+- Detection Engineering
+- Threat Hunting
+- Purple Teaming
+- AI for Cybersecurity
+- Cloud Security
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/puneesh-gulati/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:puneeshgulati05@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 </p>
 
 ---
 
-# 💭 Quote
+## 💡 Motto
 
-> "The best defense is understanding the attack before it happens."
+> **"Security is not just about preventing attacks—it's about understanding, detecting, and responding to them effectively."**
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my GitHub profile!
-</h3>
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
