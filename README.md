@@ -38,7 +38,7 @@
 ### Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,gcp,docker,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=azure,gcp,linux,git,github,vscode" />
 </p>
 
 ### Cybersecurity
@@ -108,13 +108,6 @@ Built a personal SOC lab for:
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneesh12&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Puneesh12&theme=github-dark-blue&hide_border=true" />
-</p>
 
 ---
 
