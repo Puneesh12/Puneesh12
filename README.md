@@ -10,18 +10,18 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 B.Tech in Computer Science (Information Security)
-- 🔐 Passionate about Cybersecurity, Threat Detection, and Incident Response
-- ☁️ Exploring Cloud Security and Detection Engineering
-- 🤖 Interested in AI-driven Security Automation
-- 🛠️ Building projects focused on SIEM, SOAR, Email Security, and Threat Intelligence
-- 🌱 Always learning and experimenting with new security technologies
+-  B.Tech in Computer Science (Information Security)
+-  Passionate about Cybersecurity, Threat Detection, and Incident Response
+-  Exploring Cloud Security and Detection Engineering
+-  Interested in AI-driven Security Automation
+-  Building projects focused on SIEM, SOAR, Email Security, and Threat Intelligence
+-  Always learning and experimenting with new security technologies
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming Languages
 
@@ -53,9 +53,9 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🛡️ AI-Powered Email Threat Investigation Platform
+###  AI-Powered Email Threat Investigation Platform
 
 An AI-assisted email security platform capable of:
 
@@ -69,7 +69,7 @@ An AI-assisted email security platform capable of:
 
 ---
 
-### ⚡ AI SOC Automation Platform
+###  AI SOC Automation Platform
 
 Developed an AI-assisted SOAR platform integrating:
 
@@ -88,7 +88,7 @@ Features:
 
 ---
 
-### 📊 SIEM Home Lab
+###  SIEM Home Lab
 
 Built a personal SOC lab for:
 
@@ -102,15 +102,8 @@ Built a personal SOC lab for:
 
 ---
 
-## 📊 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puneesh12&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## 🎯 Currently Learning
+##  Currently Learning
 
 - Detection Engineering
 - Threat Hunting
@@ -120,7 +113,7 @@ Built a personal SOC lab for:
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p>
 <a href="https://www.linkedin.com/in/puneesh-gulati/">
@@ -132,14 +125,4 @@ Built a personal SOC lab for:
 </a>
 </p>
 
----
 
-## 💡 Motto
-
-> **"Security is not just about preventing attacks—it's about understanding, detecting, and responding to them effectively."**
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
