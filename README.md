@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Puneesh Gulati</h1>
+<h1 align="center">Hi,I'm Puneesh Gulati</h1>
 
 <p align="center">
   <strong>Cybersecurity • SOC • Cloud Security • AI Security • Security Automation</strong>
