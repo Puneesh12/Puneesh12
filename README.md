@@ -1,128 +1,28 @@
-<h1 align="center">Hi,I'm Puneesh Gulati</h1>
+# Puneesh Gulati
 
-<p align="center">
-  <strong>Cybersecurity • SOC • Cloud Security • AI Security • Security Automation</strong>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Puneesh12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+co-founder @ [LockIN](https://staylockedin.tech) — FAANG interview prep platform for CS students  
+`React` `Node/Express` `Supabase` `Python` `Azure` `GCP`
 
 ---
 
-##  About Me
+### what i'm building
 
--  B.Tech in Computer Science (Information Security)
--  Passionate about Cybersecurity, Threat Detection, and Incident Response
--  Exploring Cloud Security and Detection Engineering
--  Interested in AI-driven Security Automation
--  Building projects focused on SIEM, SOAR, Email Security, and Threat Intelligence
--  Always learning and experimenting with new security technologies
+**[LockIN](https://staylockedin.tech)** — daily habit tracking, DSA problems with an AI judge, mock interview feedback, and a placement probability score. built with a co-founder, live in production.
 
 ---
 
-##  Tech Stack
+### other work
 
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
-</p>
-
-### Web Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,fastapi" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,gcp,linux,git,github,vscode" />
-</p>
-
-### Cybersecurity
-
-- Microsoft Sentinel
-- Wazuh
-- Burp Suite
-- OWASP ZAP
-- Cisco Secure Email Threat Defense (ETD)
-- Kusto Query Language (KQL)
-- n8n Automation
+- **email threat investigator** — AI-powered header analysis, SPF/DKIM/DMARC validation, threat intel enrichment  
+- **SOC automation platform** — Microsoft Sentinel + Wazuh + n8n pipeline for automated alert triage  
+- **SIEM home lab** — centralized log collection, KQL queries, threat hunting environment
 
 ---
 
-##  Featured Projects
+### background
 
-###  AI-Powered Email Threat Investigation Platform
-
-An AI-assisted email security platform capable of:
-
-- Email Header Analysis
-- SPF, DKIM & DMARC Validation
-- URL Reputation Analysis
-- Attachment Analysis
-- Threat Intelligence Enrichment
-- MITRE ATT&CK Mapping
-- AI Investigation Reports
+B.Tech CS (Information Security). started in security engineering, building products full-stack now.
 
 ---
 
-###  AI SOC Automation Platform
-
-Developed an AI-assisted SOAR platform integrating:
-
-- Microsoft Sentinel
-- Wazuh
-- n8n
-- Groq LLM
-- Python
-
-Features:
-
-- Automated Alert Triage
-- AI Incident Summaries
-- Security Workflow Automation
-- Threat Investigation
-
----
-
-###  SIEM Home Lab
-
-Built a personal SOC lab for:
-
-- Centralized Log Collection
-- Threat Hunting
-- Detection Rules
-- KQL Queries
-- Security Monitoring
-- Incident Investigation
-
-
----
-
-
-##  Currently Learning
-
-- Detection Engineering
-- Threat Hunting
-- Purple Teaming
-- AI for Cybersecurity
-- Cloud Security
-
----
-
-##  Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/puneesh-gulati/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:puneeshgulati05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
-
-
+📬 puneeshgulati05@gmail.com · [LinkedIn](https://www.linkedin.com/in/puneesh-gulati/)
