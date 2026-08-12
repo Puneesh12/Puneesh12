@@ -208,32 +208,10 @@ DETECT  →  INVESTIGATE  →  TRIAGE  →  RESPOND  →  AUTOMATE
 
 <br>
 
-**Security × Software Engineering × AI × Automation**
 
 </div>
 
 ---
-
-<div align="center">
-
-## GitHub
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Puneesh12&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_title=true" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneesh12&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888" height="160">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Puneesh12&hide_border=true&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=666666" height="160">
-
-</div>
-
----
-
-<div align="center">
-
-### Let's build something worth securing.
 
 <br>
 
